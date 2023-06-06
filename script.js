@@ -6,7 +6,22 @@ window.addEventListener("scroll", function () {
   } else {
     navbar.classList.remove("sticky");
   }
-});
+  //toggle  menu/navbar
+
+  // document.querySelector('.menu-btn').addEventListener('click', function () {
+  //   document.querySelector('.navbar .menu').classList.toggle('active');
+  // });
+
+
+
+}
+
+
+
+
+);
+
+
 
 
 
